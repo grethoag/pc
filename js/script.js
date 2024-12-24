@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = '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';
 let isLoading = false;
 let currentSound = null;
 
